@@ -1,1 +1,1 @@
-leia esse txt para saber mais sobre o programa 
+A main foi desenvolvida em Java e inclui toda a estrutura necessária para a implementação do exercício 8 da lista 3 sobre Programação orientada a objetos, com suas devidas classes implementadas de acordo com o enuciado da questão.
